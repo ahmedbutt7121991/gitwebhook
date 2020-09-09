@@ -1,5 +1,4 @@
 # gitwebhook jenkins
-<<<<<<< HEAD
 
 
 # Build Periodically
@@ -15,18 +14,3 @@
 
 
 # GitHub Hook SCM Polling (Working)
-=======
-only ngork works
-new
-it really works
-not working
-not working with docekr
-repo is now private Repo
-testing on my local system
-<<<<<<< HEAD
-checking branching 
-
-# SCM Polling
->>>>>>> 680e75fc1890d217738e1d836def3000833056d7
-=======
->>>>>>> 039b0670bd61c98322f3a89c9862eeefea222684
