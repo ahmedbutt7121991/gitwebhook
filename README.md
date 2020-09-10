@@ -16,7 +16,7 @@
 # GitHub Hook SCM Polling (Working)
 ## ngrok
 ## smee.io
-### commiting
+### Working for boths
 
 # Email Notification
 ## testing
