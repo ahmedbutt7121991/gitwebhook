@@ -16,3 +16,4 @@
 ## Simple working...
 ### Triggering Pipeline Builds (Scriptive language)
 ## Repo Changed to public (Worked)
+## Created another job with ssh url and cred
