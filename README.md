@@ -26,4 +26,4 @@
 
 # PipleLines
 ## Simple working...
-### Triggering Pipeline Builds
+### Triggering Pipeline Builds (Scriptive language)
