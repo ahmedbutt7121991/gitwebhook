@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "I am on Branch MASTER....."
+echo "
+I am on Branch MASTER.....
+Trigger push check....
+"
