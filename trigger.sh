@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "I am on Brach Trigger...."
+echo "
+I am on Brach Trigger....
+Checking trigger branch
+"
