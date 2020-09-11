@@ -17,3 +17,4 @@
 ### Triggering Pipeline Builds (Scriptive language)
 ## Repo Changed to public (Worked)
 ## Created another job with ssh url and cred
+# Edited script and Now its working with private as well
