@@ -37,3 +37,4 @@ node {
         echo 'Triggering Using GITHOOK....'
     }
 }
+# Master Slave Architecture in Docker using On demand method
